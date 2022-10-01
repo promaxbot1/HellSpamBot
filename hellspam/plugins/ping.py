@@ -14,7 +14,7 @@ from datetime import datetime
 async def ping(e):
     if e.sender_id in MY_USERS:
         before = datetime.now()
-        message = await e.client.send_message(e.chat_id, "`Pinging.....!`")
+        message = await e.client.send_message(e.chat_id, "𝐑ᴜᴋᴋᴋ 𝐉ᴀᴀ 𝐆ᴀᴀɴᴅᴜ👀🤣💦")
         after = datetime.now()
         ms = (after - before).microseconds / 1000
-        await e.client.edit_message(message, f"✪ Pong!\n\n✪ Hell Spam Bot\n\n✪ My Master:- [{OWNER_NAME}](tg://user?id={OWNER_ID})\n\n✪ Speed :- {ms} ms\n\nHell Spam Bot On Fire 🔥")
+        await e.client.edit_message(message, f"𝗨𝗥𝗔𝗡𝗜𝗨𝗠 ★ 𝗦𝗣𝗔𝗠                     {ms}                        𝙂𝘼𝘼𝙉𝘿𝙐 𝙒𝘼𝙇𝘼 𝙓 𝙎𝙋𝘼𝙈 😈💦𝙅𝙊                ᗰᗴᒪOᗪY KᕼᗩᗩO Kᕼᑌᗪ ᒍᗩᗩᑎ ᒍᗩᗩO🤣🤣                     𝐌𝐚𝐬𝐭𝐞𝐫- @aa_raha_hu
